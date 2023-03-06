@@ -1,0 +1,36 @@
+{
+  "weekDays":
+  {
+    "0":{
+      "en": "monday",
+      "th": "วันจันทร์",
+      "phon": "wan-jan"
+    },
+    "1":{
+      "en": "tuesday",
+      "th": "วันจันทร์",
+      "phon": "wan-ang-kaan"
+    },
+    "2":{
+      "en": "wednesday",
+      "th": "วันจันทร์",
+      "phon": "wan-put"
+    },"3":{
+      "en": "thursday",
+      "th": "วันจันทร์",
+      "phon": "wan-pa-reu-hat"
+    },"4":{
+      "en": "friday",
+      "th": "วันจันทร์",
+      "phon": "wan-suk"
+    },"5":{
+      "en": "satuday",
+      "th": "วันจันทร์",
+      "phon": "wan-sao"
+    },"6":{
+      "en": "sunday",
+      "th": "วันจันทร์",
+      "phon": "wan-aa-tit"
+    }
+  }
+}
